@@ -1,3 +1,4 @@
 # JS-Calculator
 Vanilla Javascript Calculator
-Inspired from Web Dev Simplified
+
+Inspired by Web Dev Simplified
